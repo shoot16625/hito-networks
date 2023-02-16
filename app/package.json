@@ -1,20 +1,21 @@
 {
   "name": "app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "knowledge graph visualizer",
+  "main": "index.html",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "graph"
+  ],
+  "author": "shoot16625",
   "license": "ISC",
   "dependencies": {
-    "solid-js": "^1.6.10",
-    "solid-meta": "^0.28.1",
-    "solid-utils": "^0.8.1"
+    "solid-dialog": "^0.3.0",
+    "solid-js": "^1.6.10"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
