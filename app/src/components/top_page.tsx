@@ -195,8 +195,6 @@ export default function TopPage() {
           </div>
         </div>
       </main>
-
-      <div class="px-6 pt-6 lg:px-8">aaaaaaaaaaaaaaa</div>
     </div>
   );
 }
